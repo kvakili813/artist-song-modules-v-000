@@ -4,7 +4,7 @@ module Memorable
   def self.count
   end
 
-  def self. reset_all
+  def self.reset_all
   end
 
   class Artist
