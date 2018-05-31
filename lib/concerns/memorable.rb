@@ -1,4 +1,5 @@
 module Memorable
+  module ClassMethods
 
   def self.count
   end
