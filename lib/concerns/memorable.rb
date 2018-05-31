@@ -1,8 +1,16 @@
 module Memorable
 
-  def self.reset_all
+  def self.count
   end
 
-  def self.count
+  def self. reset_all
+  end
+
+  class Artist
+  extend Memorable
+  end
+
+  class Song
+    extend Memorable
   end
 end
